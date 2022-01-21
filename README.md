@@ -17,14 +17,18 @@ Debes entender que aprender programación es una carrera de fondo. Tendrás mejo
 
 Para mejorar nuestras habilidades publico retos de programación semanales y mensuales en estos dos repositorios. También desarrollamos nuestra aplicación real [Twitimer](https://twitimer.com/), disponible en la App Store y con todo su código público.
 
-[![Reto mensual](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Kotlin?label=Reto%20mensual&style=social)](https://github.com/mouredev/Monthly-App-Challenge-2022)
+[![Reto mensual](https://img.shields.io/github/stars/mouredev/Monthly-App-Challenge-2022?label=Reto%20mensual&style=social)](https://github.com/mouredev/Monthly-App-Challenge-2022)
 [![Reto semanal](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Swift?label=Reto%20semanal%20Swift/iOS&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Swift)
 [![Twitimer](https://img.shields.io/github/stars/mouredev/Twitimer-iOS?label=Twitimer%20iOS&style=social)](https://github.com/mouredev/Twitimer-iOS)
+
+🤖 Este roadmap también lo tienes disponible para desarrollo de aplicaciones en entornos Android.
+
+[![Android Developer Roadmap](https://img.shields.io/github/stars/mouredev/Android-Developer-Roadmap?label=Roadmap%20Android%20Developer&style=social)](https://github.com/mouredev/Android-Developer-Roadmap)
 
 ## Fuentes de información
 Recuerda la importancia de desarrollar habilidades para resolver problemas y encontrar información relevante. Puede sonal mal, pero [Google](https://www.google.com/) es una de nuestras principales herramientas de trabajo, y debemos saber usarlo. Otros lugares que debes conocer son:
 
-* [Apple Developer](https://developer.apple.com/): Sitio web oficial para resarrolladores Apple
+* [Apple Developer](https://developer.apple.com/): Sitio web oficial para desarrolladores Apple
 * [GitHub](https://github.com/): Repositorio de código público más grande del mundo
 * [Stack Overflow](https://stackoverflow.com/): Resolución de problemas
 * [Medium](https://medium.com/) y [Dev.to](https://dev.to/): Artículos de interés
