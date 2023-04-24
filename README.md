@@ -26,7 +26,7 @@ Para mejorar nuestras habilidades publico retos de programación semanales y men
 [![Android Developer Roadmap](https://img.shields.io/github/stars/mouredev/Android-Developer-Roadmap?label=Roadmap%20Android%20Developer&style=social)](https://github.com/mouredev/Android-Developer-Roadmap)
 
 ## Fuentes de información
-Recuerda la importancia de desarrollar habilidades para resolver problemas y encontrar información relevante. Puede sonal mal, pero [Google](https://www.google.com/) es una de nuestras principales herramientas de trabajo, y debemos saber usarlo. Otros lugares que debes conocer son:
+Recuerda la importancia de desarrollar habilidades para resolver problemas y encontrar información relevante. Puede sonar mal, pero [Google](https://www.google.com/) es una de nuestras principales herramientas de trabajo, y debemos saber usarlo. Otros lugares que debes conocer son:
 
 * [Apple Developer](https://developer.apple.com/): Sitio web oficial para desarrolladores Apple
 * [GitHub](https://github.com/): Repositorio de código público más grande del mundo
@@ -41,10 +41,11 @@ El roadmap estará compuesto por algunos recursos oficiales, otros creados por m
 > 📈 **A continuación tendrás el roadmap formado por un listado de conocimientos a adquirir (así como distintos sitios web donde comenzar su aprendizaje). Este listado se irá actualizando y completando, incluso creando nuevos documentos para agrupar enlaces de interés.**
 
 ### 1️⃣ Lenguaje de programación: Swift
-Debes aprender sus fundamentos, tipos de datos primivos y estructuras, flujo lógico y paradigma de programación orientada a objetos.
+Debes aprender sus fundamentos, tipos de datos primitivos y estructuras, flujo lógico y paradigma de programación orientada a objetos.
 
 * [Swift en Apple Developer](https://developer.apple.com/swift/)
 * [Swift.org sitio web oficial](https://www.swift.org/)
+* [Swiftbook - Traducción al español (proyecto github)](https://swiftbook.es/)
 * [TUTORIAL Swift desde cero](https://youtu.be/P6ko_I5GHbs)
 * [TUTORIAL Swift (en Udemy)](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930)
 
