@@ -45,7 +45,7 @@ Debes aprender sus fundamentos, tipos de datos primitivos y estructuras, flujo l
 
 * [Swift en Apple Developer](https://developer.apple.com/swift/)
 * [Swift.org sitio web oficial](https://www.swift.org/)
-* [Swift - Traducción español proyecto github](https://swift-book-es.vercel.app/)
+* [Swiftbook - Traducción al español (proyecto github)](https://swiftbook.es/)
 * [TUTORIAL Swift desde cero](https://youtu.be/P6ko_I5GHbs)
 * [TUTORIAL Swift (en Udemy)](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930)
 
